@@ -1,0 +1,1 @@
+ColumnSlope (rad) = 0.698

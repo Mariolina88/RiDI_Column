@@ -1,0 +1,9 @@
+         Time   iter         rTop         vTop         vBot    sum(rTop)    sum(vTop)    sum(vBot)         hTop         hBot       RunOff      sum(RunOff)       Volume       sum(Infil)  Cum(WTrans)
+         [T]     []         [L/T]        [L/T]        [L/T]       [L]          [L]          [L]            [L]          [L]        [L/T]           [L]             [L]            [L]
+   25200.0000    840 -2.77778e-06 -2.77777e-06 -2.49781e-09 -5.83333e-04 -5.82537e-04 -5.99473e-07 -8.66255e-02 -4.13378e-01  0.00000e+00  0.00000e+00  1.69947e-01  5.82462e-04  0.00000e+00
+
+          Time     PrecipP     FluxTopP     FluxTopA      FluxBot       RunOff     Sum(PrecP)  Sum(FlTopP)  Sum(FlTopA)  Sum(FluxBot)  Sum(RunOff)    Storage      vTopW        vTopV
+    25200.0000  2.77778e-06 -2.77778e-06 -2.77777e-06 -2.49781e-09  0.00000e+00  5.83333e-04 -5.83333e-04 -5.82537e-04 -5.99473e-07  0.00000e+00  1.69947e-01 -2.77777e-06  0.00000e+00
+
+      Time          dt    ItCum  Top (von Newman)  Bot (von Newman)
+  2.5200000e+04  3.00000e+01  840   true   true

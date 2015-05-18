@@ -1,0 +1,7 @@
+FreeD Dirichlet von_Newman FreeD qGWLF SeepF
+GWL0L (m) = 230
+Aqh () = -0.1687
+Bqh () = -0.02674
+hSeep (m) = 0 
+SuctionBottom (m) = 1
+FluxBottom (m/s) = 0.001
